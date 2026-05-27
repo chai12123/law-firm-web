@@ -1,0 +1,6 @@
+{
+  "name": "Sunshine & Friend Law Firm",
+  "description": "A premium, bilingual landing page for a Thai estate-law firm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
